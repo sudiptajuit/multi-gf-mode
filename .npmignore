@@ -1,0 +1,11 @@
+.env
+.wwebjs_auth/
+.wwebjs_cache/
+vectors/
+pending/
+chats/
+schedule.json
+qr.html
+node_modules/
+*.zip
+*.ingested
