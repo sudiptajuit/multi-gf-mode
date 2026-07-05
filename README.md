@@ -234,4 +234,4 @@ MIT
 
 ---
 
-*Built by [Sudipta Biswas](https://github.com/sudiptajuit) — because replying to everyone is overrated.*
+*Built by [Sudipta Biswas](https://github.com/sudiptajuit) — because even you need a backup sometimes.*
