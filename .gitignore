@@ -8,3 +8,4 @@ chats/
 schedule.json
 qr.html
 *.ingested
+.DS_Store
